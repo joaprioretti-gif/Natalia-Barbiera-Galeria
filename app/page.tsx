@@ -55,7 +55,7 @@ const artworks: Artwork[] = [
     año: "2026",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/transicion-2026.webp",
     estado: "Consultar",
     formato: "square",
@@ -68,7 +68,7 @@ const artworks: Artwork[] = [
     año: "2022",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/ciudades-2022.webp",
     estado: "Consultar",
     formato: "square",
@@ -81,7 +81,7 @@ const artworks: Artwork[] = [
     año: "2025",
     tecnica: "Mixta · Acrílico",
     dimensiones: "50 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/diagonal-efimera-2025.webp",
     estado: "Consultar",
     formato: "tall",
@@ -94,7 +94,7 @@ const artworks: Artwork[] = [
     año: "2024",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/dualidades-2024.webp",
     estado: "Consultar",
     formato: "square",
@@ -107,7 +107,7 @@ const artworks: Artwork[] = [
     año: "2024",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/encre-noire-2024.webp",
     estado: "Consultar",
     formato: "square",
@@ -120,7 +120,7 @@ const artworks: Artwork[] = [
     año: "2020",
     tecnica: "Mixta · Acrílico",
     dimensiones: "60 × 80 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/conectivo-2020.webp",
     estado: "Consultar",
     formato: "portrait",
@@ -133,7 +133,7 @@ const artworks: Artwork[] = [
     año: "2023",
     tecnica: "Mixta · Acrílico",
     dimensiones: "120 × 60 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/terre-2023.webp",
     estado: "Consultar",
     formato: "wide",
@@ -146,7 +146,7 @@ const artworks: Artwork[] = [
     año: "2024",
     tecnica: "Mixta · Acrílico",
     dimensiones: "80 × 120 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/salvatori-2024.webp",
     estado: "Consultar",
     formato: "portrait",
@@ -159,7 +159,7 @@ const artworks: Artwork[] = [
     año: "2022",
     tecnica: "Mixta · Acrílico",
     dimensiones: "60 × 80 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/reflexion-2022.webp",
     estado: "Consultar",
     formato: "landscape",
@@ -172,7 +172,7 @@ const artworks: Artwork[] = [
     año: "2022",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/sismico-2022.webp",
     estado: "Consultar",
     formato: "square",
@@ -185,7 +185,7 @@ const artworks: Artwork[] = [
     año: "2021",
     tecnica: "Mixta · Acrílico",
     dimensiones: "90 × 110 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/integro-2021.webp",
     estado: "Consultar",
     formato: "portrait",
@@ -198,7 +198,7 @@ const artworks: Artwork[] = [
     año: "2019",
     tecnica: "Mixta · Acrílico",
     dimensiones: "90 × 60 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/kasbah-2019.webp",
     estado: "Consultar",
     formato: "landscape",
@@ -211,7 +211,7 @@ const artworks: Artwork[] = [
     año: "2023",
     tecnica: "Mixta · Acrílico",
     dimensiones: "80 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/laberinto-2023.webp",
     estado: "Consultar",
     formato: "portrait",
@@ -224,7 +224,7 @@ const artworks: Artwork[] = [
     año: "2021",
     tecnica: "Mixta · Acrílico",
     dimensiones: "100 × 100 cm",
-    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección privada.",
+    descripcion: "Obra abstracta original de Natalia Barbiera, perteneciente a esta colección abstracta.",
     imagen: "/artworks/multiplos-2021.webp",
     estado: "Consultar",
     formato: "square",
@@ -357,20 +357,20 @@ export default function Home() {
                 </SheetClose>
               ))}
             </nav>
-            <div className="mobile-sheet-foot">Colección privada · 14 obras</div>
+            <div className="mobile-sheet-foot">Colección abstracta · 14 obras</div>
           </SheetContent>
         </Sheet>
       </header>
 
       <section className="hero" id="inicio" aria-labelledby="hero-title">
         <div className="hero-copy" data-reveal>
-          <p className="eyebrow">Colección privada · Argentina</p>
+          <p className="eyebrow">Colección abstracta · Argentina</p>
           <h1 id="hero-title">
             Natalia
             <br />
             <em>Barbiera</em>
           </h1>
-          <p className="hero-intro">Catorce obras originales en una exposición privada.</p>
+          <p className="hero-intro">Catorce obras originales en una exposición abstracta.</p>
           <a className="discover-link" href="#obras">
             Descubrir la colección
             <ArrowDown aria-hidden="true" />
