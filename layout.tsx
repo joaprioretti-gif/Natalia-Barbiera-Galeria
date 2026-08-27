@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Natalia Barbiera — Colección abstracta",
+  title: "Natalia Barbiera — Exposición abstracta",
   description:
     "Catorce obras originales de Natalia Barbiera. Descubrí la colección y consultá por cada pieza.",
   icons: {
